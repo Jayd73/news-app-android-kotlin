@@ -1,7 +1,7 @@
 package com.example.newsapp.helpers
 
 object Constants {
-    const val API_KEY = "674a206d51784fba8b9974274154ec1e"
+    const val API_KEY = "your_key" // key from NewsAPI
     const val BASE_URL = "https://newsapi.org/v2"
     const val TOP_HEADLINES_ENDPOINT = "$BASE_URL/top-headlines"
     const val PAGE_KEY = "page"
